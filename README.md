@@ -19,7 +19,10 @@ Small floating widget showing:
 <img width="301" height="223" alt="image" src="https://github.com/user-attachments/assets/eb370c5e-6fe4-4b3a-b1b7-e6282d545e18" />
 
 ## Run
->> powershell.exe -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -File weeky-weeky.ps1
+```bash
+powershell.exe -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -File weeky-weeky.ps1
+
+ALternatively you can use the .exe version of the powershell script weeky-weeky.exe
 
 ## Tips
 - Create Shortcut and add to you Taskbar or run at startup.

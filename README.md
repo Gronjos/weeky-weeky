@@ -21,7 +21,7 @@ Small floating widget showing:
 ## Run
 ```bash
 powershell.exe -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -File weeky-weeky.ps1
-``
+```
 
 Alternatively you can use the .exe version of the powershell script weeky-weeky.exe
 

@@ -1,6 +1,6 @@
-# ------------------------------------------------------------
-# --- Alejandro's shell script for week number and weather ---
-# ------------------------------------------------------------
+# ---------------------------------------------------------
+# --- Gronjos' shell script for week number and weather ---
+# ---------------------------------------------------------
 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing

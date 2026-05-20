@@ -22,4 +22,5 @@ Small floating widget showing:
 >> powershell.exe -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -File weeky-weeky.ps1
 
 ## Tips
-Create Shortcut and add to you Taskbar or run at startup.
+- Create Shortcut and add to you Taskbar or run at startup.
+- Adjust location in script with latitude and longitude to get local weather.

@@ -1,5 +1,7 @@
 # weeky-weeky
-Week Number and Weather Widget for Windows Powershell
+Week Number and Weather Widget for Windows Powershell.
+Because it's a Powershell script, it can be installed behind company firewalls and/or company managed devices.
+Executable version also available for non-company managed environments.
 
 # Week + Weather Widget (PowerShell)
 
